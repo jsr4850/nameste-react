@@ -1,0 +1,28 @@
+{
+  "name": "namaste-reat",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsr4850/nameste-react.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "satwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsr4850/nameste-react/issues"
+  },
+  "homepage": "https://github.com/jsr4850/nameste-react#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
